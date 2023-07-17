@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "nombre": "david soler",
+            "cedula": "123",
+            "telefono": "1234",
+            "correo": "dff"
+        },
+        {
+            "nombre": "carlos rivera",
+            "cedula": "456",
+            "telefono": "6757",
+            "correo": "ff"
+        },
+        {
+            "nombre": "carlos andres",
+            "cedula": "3838",
+            "telefono": "0320303",
+            "correo": "kdksda"
+        }
+    ]
+}
